@@ -6,31 +6,10 @@
 #### Software Architecture
 Software architecture description
 
-#### Installation
+本文将在MySensors 2.3.1 版本源代码基础之上，做些修改，直接用在STM32的开发板上，并用 Keil-MDK作为IDE进行编译。
+Keil-MDK(Keil uVision5)版本号: MDK-ARM Plus Version 5.23 
 
-1. xxxx
-2. xxxx
-3. xxxx
-
-#### Instructions
-
-1. xxxx
-2. xxxx
-3. xxxx
-
-#### Contribution
-
-1. Fork the repository
-2. Create Feat_xxx branch
-3. Commit your code
-4. Create Pull Request
+本人使用的STM32开发板是比较老旧的一个金牛板，芯片是STM32F107VC.
 
 
-#### Gitee Feature
-
-1. You can use Readme\_XXX.md to support different languages, such as Readme\_en.md, Readme\_zh.md
-2. Gitee blog [blog.gitee.com](https://blog.gitee.com)
-3. Explore open source project [https://gitee.com/explore](https://gitee.com/explore)
-4. The most valuable open source project [GVP](https://gitee.com/gvp)
-5. The manual of Gitee [https://gitee.com/help](https://gitee.com/help)
-6. The most popular members  [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+RF模块：NRF24L01+ 无线模块 功率加强版 2.4G 无线收发通信模块。
